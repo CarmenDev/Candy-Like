@@ -39,7 +39,7 @@ h1 {
 }
 
 .game-container {
-  background-image: 'url(images/candy-dream.png)';
+  background-image: url(images/candy-dream.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
